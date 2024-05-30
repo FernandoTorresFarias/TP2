@@ -1,0 +1,11 @@
+
+.completed {
+    text-decoration: line-through;
+    color: green;
+}
+.not-completed {
+    color: red;
+}
+.user-container {
+    margin-bottom: 20px;
+}
